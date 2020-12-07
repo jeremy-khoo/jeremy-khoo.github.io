@@ -1,6 +1,7 @@
 body {
-    margin: 60px auto;
-    width: 70%;
+    margin: 80px auto;
+    width: 60%;
+    font-size: 100%;
 }
 nav ul, footer ul {
     font-family:Century, serif;
@@ -21,12 +22,12 @@ a:hover {
 }
 h1 {
     font-size: 2em;
-    font-family:'Helvetica Neue', serif;
+    font-family:orpheus-pro, Philosopher, Utopia, serif;
     text-align:center;
 }
-h1 {
+h2 {
     font-size: 1.5em;
-    font-family:'Helvetica Neue', serif;
+    font-family:Century, serif;
     text-decoration:underline;
 }
 p {
