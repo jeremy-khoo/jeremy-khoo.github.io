@@ -1,6 +1,6 @@
 body {
     margin: auto;
-    width: 50%
+    max-width: 50%
 }
 nav ul, footer ul {
     font-family:Century, serif;
@@ -54,10 +54,3 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
-.rotateimg90 {
-    -webkit-transform:rotate(90deg);
-    -moz-transform: rotate(90deg);
-    -ms-transform: rotate(90deg);
-    -o-transform: rotate(90deg);
-    transform: rotate(90deg);
-  }
