@@ -3,7 +3,7 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family:Helvetica, serif;
+    font-family:Century, serif;
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -20,12 +20,17 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 3em;
-    font-family:Helvetica, serif;
+    font-size: 2em;
+    font-family:'Helvetica Neue', serif;
     text-align:center;
 }
-p {
+h1 {
     font-size: 1.5em;
+    font-family:'Helvetica Neue', serif;
+    text-decoration:underline;
+}
+p {
+    font-size: 1em;
     font-family:Century, serif;
     line-height: 1.4em;
     color: #333;
