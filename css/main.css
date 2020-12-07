@@ -1,6 +1,5 @@
 body {
     margin: 60px;
-    width: 50%;
     font-size: 100%;
 }
 nav ul, footer ul {
@@ -31,10 +30,10 @@ h2 {
     text-decoration:underline;
 }
 p {
-    font-size: 0.75em;
+    font-size: 1em;
     font-family:Century, serif;
     text-align:justify;
-    line-height: 1.05em;
+    line-height: 1.4em;
     color: #333;
 }
 img {
