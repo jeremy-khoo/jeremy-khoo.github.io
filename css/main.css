@@ -1,12 +1,12 @@
-@media only screen and (max-width: 768px) {
-  body {
-  margin: auto;
-  max-width: 80%
-  }
-}
 body {
     margin: auto;
     max-width: 50%;
+}
+@media only screen and (max-width: 768px) {
+  body {
+  margin: auto;
+  max-width: 70%
+  }
 }
 nav ul, footer ul {
     font-family:Century, serif;
