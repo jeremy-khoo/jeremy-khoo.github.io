@@ -1,6 +1,7 @@
 body {
     margin: auto;
     max-width: 50%
+    min-width: 300vp
 }
 nav ul, footer ul {
     font-family:Century, serif;
