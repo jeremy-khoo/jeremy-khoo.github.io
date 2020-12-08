@@ -5,7 +5,7 @@ body {
 img {
   display: block;
   margin: auto;
-  max-width: 90%;
+  max-width: 90vw;
 }
 @media only screen and (min-width: 768px) {
   body {
@@ -15,6 +15,7 @@ img {
   img {
   display: block;
   margin: auto;
+  max-width: 30vw;
   }
 }
 nav ul, footer ul {
