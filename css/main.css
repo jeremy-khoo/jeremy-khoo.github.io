@@ -1,6 +1,6 @@
 body {
     margin: auto;
-    max-width: 70%;
+    max-width: 80%;
 }
 @media only screen and (min-width: 768px) {
   body {
@@ -45,7 +45,6 @@ p {
 img {
   display: block;
   margin: auto;
-  max-width: 80%;
 }
 footer {
     border-top: 1px solid #d5d5d5;
