@@ -2,6 +2,11 @@ body {
     margin: auto;
     max-width: 90%;
 }
+img {
+  display: block;
+  margin: auto;
+  max-width: 90%;
+}
 @media only screen and (min-width: 768px) {
   body {
   margin: auto;
@@ -45,10 +50,6 @@ p {
     text-align:justify;
     line-height: 1.4em;
     color: #333;
-}
-img {
-  display: block;
-  margin: auto;
 }
 footer {
     border-top: 1px solid #d5d5d5;
