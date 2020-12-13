@@ -22,6 +22,14 @@ exclude:
   - LICENSE.md
   - README.md
 
+# Nav links
+pages_list:
+  Research: '/research'
+
+# Footer links
+fpages_list:
+  email: 'mailto:jkhoo@princeton.edu'
+
 sass:
   sass_dir: _sass
   style: :compressed
