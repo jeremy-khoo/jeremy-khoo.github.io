@@ -10,6 +10,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
+  margin-top:0;
   font-size: 2rem;
 }
 
@@ -45,7 +46,7 @@ a:hover {
 }
 
 li {
-  padding-left:0.35rem;
+  padding-left:0;
 }
 
 li + li {
@@ -64,7 +65,7 @@ ul {
 ul li {
   list-style: none;
   display: inline;
-  margin-inline: 0.5rem;
+  margin-inline-end: 1rem;
 }
 
 dt {
@@ -121,7 +122,6 @@ figure {
       margin:auto;
       font-size:0.85em;
       padding:0;
- //     text-align:justify;
     }
   }
 }
