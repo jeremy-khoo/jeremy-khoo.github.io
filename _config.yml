@@ -1,7 +1,7 @@
 # Setup
-title: Poole
-tagline: The Jekyll Butler
-url: https://getpoole.com
+title: Jeremy Khoo
+tagline:
+url: https://jeremy-khoo.github.io
 paginate: 1
 baseurl: ""
 permalink: pretty
@@ -25,10 +25,6 @@ exclude:
 # Nav links
 pages_list:
   Research: '/research'
-
-# Footer links
-fpages_list:
-  email: 'mailto:jkhoo@princeton.edu'
 
 sass:
   sass_dir: _sass
