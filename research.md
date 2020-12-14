@@ -5,7 +5,7 @@ Title: Research
 
 # Research
 
-<small>Email me for drafts, or even just to discuss any of the issues raised below.</small>
+*Email me for drafts, or even just to discuss any of the issues raised below.*
 
 ## Working Papers
 

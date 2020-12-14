@@ -5,7 +5,7 @@ title: Home
 
 <figure>
   <img src="/assets/trinbacks.jpg">
-  <figcaption style="padding-top:10px;text-align:justify;"><i>The view looking down The Avenue towards Trinity College, Cambridge from the Backs. Photo taken on the last Thursday of Michaelmas Term 2018.</i></figcaption>
+  <figcaption style="text-align:justify;"><i>The view looking down The Avenue towards Trinity College, Cambridge from the Backs. Photo taken on the last Thursday of Michaelmas Term 2018.</i></figcaption>
 </figure>
 
 # About

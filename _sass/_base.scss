@@ -28,7 +28,7 @@ body {
   margin:auto 0;
   font-family: var(--body-font);
   font-size: var(--body-font-size);
-  text-align: justify;
+  text-align: left;
   line-height: var(--body-line-height);
   color: var(--body-color);
   background-color: var(--body-bg);
@@ -52,16 +52,17 @@ a {
 }
 
 img {
-  max-width:90vw;
+  max-width: 100%;
   display: block;
   margin: auto;
-  margin-bottom: var(--spacer);
+  margin-bottom:1vh;
   border-radius: var(--border-radius);
 }
 
  @media only screen and (min-width: 768px) {
   body {
   margin: 0 20vw;
+  text-align:justify;
   }
   img {
   max-width: 60%;
