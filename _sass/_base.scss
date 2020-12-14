@@ -26,6 +26,7 @@
 
 body {
   margin:auto 0;
+  padding: auto 0;
   font-family: var(--body-font);
   font-size: var(--body-font-size);
   text-align: left;
@@ -61,7 +62,7 @@ img {
 
  @media only screen and (min-width: 768px) {
   body {
-  margin: 0 20vw;
+  margin: 0 21.5vw;
   text-align:justify;
   }
   img {
